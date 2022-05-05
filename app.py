@@ -1,6 +1,8 @@
 # Install the Python Requests library:
 # `pip install requests`
 
+#© Oswaldo Pacheco, 2022
+
 import requests
 import json
 import random as rnd
